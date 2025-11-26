@@ -19,6 +19,8 @@ To democratize recurring payments and empower creators by providing a decentrali
 - Dashboard UI for creators and subscribers.
 - Multi-tier subscription plans.
 - NFT-based subscription access.
-```
 Contract address : 0xa86428Dd607314fA9D3e64E3679a64A348c6db52 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f81af11-fae8-474c-9e8e-b4f017f1c317" />
+
+```
+
